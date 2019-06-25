@@ -1,0 +1,14 @@
+H:\Code\C#project\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+H:\Code\C#project\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+H:\Code\C#project\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+H:\Code\C#project\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+H:\Code\C#project\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+H:\Code\C#project\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb
